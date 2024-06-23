@@ -1,3 +1,12 @@
+# 👋 Welcome to my portfolio repository!
+
+> [!NOTE]  
+> The purpose of the file is as following:
+
+* Implementation of modern design
+* Showcase of some of my work
+* If interested in Svelte, further on are start up steps for your project!
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
@@ -35,4 +44,4 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment. Enjoy!

@@ -56,7 +56,7 @@
             </a>
 
             <a
-                href="www.linkedin.com/in/samuel-zapotocky"
+                href="https://www.linkedin.com/in/samuel-zapotocky"
                 target="_blank"
                 type="button"
                 class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0 text-white dark:hover:bg-secondary-900 dark:hover:text-black"

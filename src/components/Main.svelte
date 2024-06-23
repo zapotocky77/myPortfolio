@@ -2,8 +2,8 @@
     import Step from "../components/Step.svelte";
 
     let steps = [
-        { name: "Java Game", icon: "fa-solid fa-cart-shopping", href: "https://github.com/Samuel2048/SimulatorVraydeniaAlbinov" },
-        { name: "Yet Another Solution", icon: "fa-solid fa-list-check", href: "" },
+        { name: "Java Game", icon: "fa-solid fa-gamepad", href: "https://github.com/Samuel2048/SimulatorVraydeniaAlbinov" },
+        { name: "Yet Another Solution", icon: "fa-solid fa-code", href: "https://github.com/Yet-another-solution" },
         { name: "Hack Košice Team member", icon: "fa-solid fa-diagram-project", href: "https://hackkosice.com/"},
     ];
 
@@ -31,13 +31,13 @@
                 <span class="poppins text-violet-400">Developer</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                My <span class="poppins text-violet-400">favorite tech</span> includes HTML, JavaScript (React, SvelteKit), styled-components, TailWindCSS,  Bootstrap 5, Node.js & MySQL or Firebase/Firestore!
+                My <span class="poppins text-violet-400">favorite tech</span> includes HTML, CSS, JavaScript (React, SvelteKit), styled-components, TailWindCSS,  Bootstrap 5, Node.js & MySQL or Firebase!
             </p>
             <a
+                href="https://www.linkedin.com/in/samuel-zapotocky"
+                target="_blank"
                 class="blueShadow mx-auto lg:mr-auto text-base sm:text-lg md:text-xl poppins relative 
                 overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer"
-                href="https://www.instagram.com/samo_zapo/"
-                target="_blank"
             >
                 <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200" />
                 <h4 class="relative z-9">Get in touch &rarr;</h4>
@@ -68,18 +68,18 @@
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <Step step={steps[0]}>
                 <p>
-                    Smoljames Store is a a merchanising store created with 
-                    <strong class="text-violet-400">Next.js + Express.js, Commerce.js & Stripe!</strong> Commerce.js is a CMS for managing project and Stripe is used for all transaction handling.
+                    During my study in Secondary School of Electrical Engineering in Prešov my team had a challenge to develop 
+                    <strong class="text-violet-400">JavaFx Game</strong> for entertainment purposes.
                 </p>
             </Step>
             <Step step={steps[1]}>
                 <p>
-                    Test for model robustness with customized test profiles and receive exhaustive reporting on the performance and potential vulnerabilities of your model.
+                    Since summer of 2023 I have been involved in the Y-A-S team for developing realtime applications using <strong class="text-violet-400">.NET</strong>.
                 </p>
             </Step>
             <Step step={steps[2]}>
                 <p>
-                    Augment your datasets with our filters and dataset manipulations to ensure your models are trained on the highest quality datasets (coming soon).
+                    I became a successful member of <strong class="text-violet-400">Hack Košice</strong> Team in February of 2024 as Organiser of the international Hackaton. 
                 </p>
             </Step>
         </div>

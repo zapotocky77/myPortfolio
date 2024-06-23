@@ -18,7 +18,7 @@
         },
         {
             name: "an excellent communicator",
-            description: "Communication is key and it's a paramount value of mine. I believe in transparency and constructive communication above all else. This helps me develop deep relationships and ensures my effectiveness and productivity in any work space with any team."
+            description: "As a student I consider communication to be the key and it's a paramount value of mine. I believe in transparency and constructive communication above all else. This helps me develop deep relationships and ensures my effectiveness and productivity in any work space with any team."
         },
     ];
 </script>

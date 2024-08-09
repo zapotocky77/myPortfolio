@@ -31,7 +31,7 @@
                 <span class="poppins text-violet-400">Developer</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                My <span class="poppins text-violet-400">favorite tech</span> includes HTML, CSS, JavaScript (React, SvelteKit), styled-components, TailWindCSS,  Bootstrap 5, Node.js & MySQL or Firebase!
+                My <span class="poppins text-violet-400">favorite tech</span> includes HTML, CSS, JavaScript (React, SvelteKit), styled-components, TailWindCSS,  Bootstrap 5, Node.js & MySQL!
             </p>
             <a
                 href="https://www.linkedin.com/in/samuel-zapotocky"
@@ -43,8 +43,9 @@
                 <h4 class="relative z-9">Get in touch &rarr;</h4>
             </a>
         </div>
-        <div class="relative shadow-2xl grid place-items-center">
-            <img src={"images/profile.png"} alt="Profile image" class="object-cover z-[2] max-h-[70vh]"/>
+        <div class="relative grid place-items-center">
+            <!-- svelte-ignore a11y-img-redundant-alt -->
+            <img src={"images/profile1.png"} alt="Profile image" class="object-cover z-[2] max-h-[70vh] mt-6"/>
         </div>
     </section>
 

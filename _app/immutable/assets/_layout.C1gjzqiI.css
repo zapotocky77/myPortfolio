@@ -1,0 +1,1 @@
+.grid{display:grid}.h-screen{height:100vh}.w-screen{width:100vw}.place-items-center{place-items:center}.overflow-hidden{overflow:hidden}.text-4xl{font-size:2.25rem;line-height:2.5rem}:root{--color-background: #FAFAFA;--color-text: #333333}html{scroll-behavior:smooth;background-color:var(--color-background)}*{font-family:Poppins,sans-serif}h1,h2,h3{color:var(--color-text)}
